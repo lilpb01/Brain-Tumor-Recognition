@@ -1,10 +1,10 @@
-# 🧠 Brain Tumor Classification with ResNet18
+#  Brain Tumor Classification with ResNet18
 
 This project leverages deep learning to classify brain tumors from MRI images into four distinct classes: **Glioma**, **Meningioma**, **Pituitary**, and **No Tumor**. It uses a ResNet18-based convolutional neural network trained on a publicly available dataset from Kaggle and visualizes results using Tableau.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - Source: [Kaggle Brain Tumor Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 - Total Images: 7,023 MRI scans
@@ -16,7 +16,7 @@ This project leverages deep learning to classify brain tumors from MRI images in
 
 ---
 
-## 🧠 Model
+##  Model
 
 - Architecture: **ResNet18**
 - Training Time: **10 epochs**
@@ -26,7 +26,7 @@ The model was trained using PyTorch with data augmentation, cross-entropy loss, 
 
 ---
 
-## 📊 Tableau Dashboard
+##  Tableau Dashboard
 
 The results of the model are visualized in an interactive **Tableau dashboard** showing:
 
@@ -40,7 +40,7 @@ The results of the model are visualized in an interactive **Tableau dashboard** 
 
 ---
 
-## 🧪 Files Overview
+##  Files Overview
 
 | File | Description |
 |------|-------------|
